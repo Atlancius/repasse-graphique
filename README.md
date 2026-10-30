@@ -1,4 +1,5 @@
 # Repasse graphique — skill pour Claude Code et Codex
+n![Repasse graphique](assets/cover.png)
 
 Donne à un site ou une app web un graphisme de premier plan : l'agent comprend ton produit, te pose les bonnes questions, cherche de vraies références (Scrolltide, 21st.dev), te propose trois directions, attend ton accord, puis code et vérifie page par page.
 
