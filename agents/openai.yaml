@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repasse graphique"
+  short_description: "Créer ou relever le graphisme d'un site au meilleur niveau"
+  default_prompt: "Utilise $repasse-graphique pour comprendre l'essence de ce site, cadrer mes envies, chercher les meilleures références Scrolltide et 21st.dev, me proposer trois directions et attendre mon accord avant de coder."
